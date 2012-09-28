@@ -289,7 +289,7 @@ class Wizard(BaseFrontend):
         self.socketNotifierException = {}
         self.debconf_callbacks = {}    # array to keep callback functions needed by debconf file descriptors
 
-        self.ui.setwindowicon(QtGui.QIcon(
+        self.ui.setWindowIcon(QtGui.QIcon(
          "/usr/share/icons/hicolor/128x128/apps/ubiquity.png"))
         self.allow_go_backward(False)
 
