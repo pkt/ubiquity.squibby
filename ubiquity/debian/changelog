@@ -1,3 +1,10 @@
+ubiquity (2.10.99~squibby3) precise; urgency=low
+
+  * Fix the 5 untranslatable strings in ubiquity qt frontend and offer
+    Greek translations as well.
+
+ -- Pantelis Koukousoulas <pktoss@gmail.com>  Fri, 28 Sep 2012 14:45:21 +0300
+
 ubiquity (2.10.99~squibby1) precise; urgency=low
   [ Pantelis Koukousoulas ]
   * Fix the problem that the tooltip in the timezone script had latin-1
